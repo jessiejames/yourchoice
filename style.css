@@ -1,0 +1,52 @@
+body {
+  background-image: url("https://static.squarespace.com/static/5369294ce4b0b09da2dd28c2/t/5376bb95e4b0edb14eae7e02/1400290197308/CORRUGATED_TIN_FOR_WEB.png");
+}
+
+.background-cover{
+  opacity: .5;
+  background-color: #575252;
+  height: 100%;
+  width: 100%;
+}
+
+div.ui.borderless.menu {
+  box-shadow: none;
+  border: none;
+  margin-top: 24px;
+  margin-bottom: 30px;
+  height: 165px;
+  width: 759px;
+}
+
+div.centered.grid.container {
+  box-shadow: none;
+  border: none;
+  text-align: center;
+  font-weight: bold;
+  text-align: center;
+  width: 610px;
+}
+a.item{
+  color: #7affd3 !important;
+  font-weight: 300;
+  opacity: 1.0;
+  height: 30px;
+  padding-top: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  font-size: 24px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.ui.borderless.menu{
+  box-shadow: none;
+  border: none;
+  background: none;
+}
+
+div.row{
+  margin: 30px;
+  padding: 0px;
+  height: 24px;
+
+}
+
